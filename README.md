@@ -1,4 +1,4 @@
-<h1 align="center">Hi 👋, I'm Dandara</h1>
+<h2 align="center">Hi 👋, I'm Dandara</h2>
 <h3 align="center">A passionate Quality Assurance Tester from Brazil</h3>
 
 <h3 align="left">Connect with me:</h3>
